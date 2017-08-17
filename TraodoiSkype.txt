@@ -1,0 +1,199 @@
+[8/11/2017 11:08:51 AM] Ngọc Hoàng Phùng: alo
+[8/11/2017 11:08:58 AM] Đỗ Khắc Phúc: ola anh
+[8/11/2017 11:09:03 AM] Ngọc Hoàng Phùng: chú quay lại làm cái con ifcorrect đi
+[8/11/2017 11:09:10 AM] Ngọc Hoàng Phùng: giờ vẫn ngon đó
+[8/11/2017 11:09:21 AM] Đỗ Khắc Phúc: anh thấy hay con remitto à
+[8/11/2017 11:09:24 AM] Ngọc Hoàng Phùng: Bong bánh, lo đề, vietloote
+[8/11/2017 11:09:30 AM] Ngọc Hoàng Phùng: chứng khoán
+[8/11/2017 11:09:36 AM] Ngọc Hoàng Phùng: đều dùng được
+[8/11/2017 11:09:36 AM] Đỗ Khắc Phúc: thằng dancu.vn có vẻ ngon đấy
+[8/11/2017 11:09:46 AM] Đỗ Khắc Phúc: khó ở chỗ bán hàng thôi
+[8/11/2017 11:10:00 AM] Ngọc Hoàng Phùng: cái đó thì là kinh doanh chính ngạch rồi
+[8/11/2017 11:10:08 AM] Ngọc Hoàng Phùng: phụ thuộc vào nhiều yêu tố
+[8/11/2017 11:10:23 AM] Ngọc Hoàng Phùng: chính sách, chiến lược, thị trường, đối thủ, chất lượng..
+[8/11/2017 11:10:48 AM] Ngọc Hoàng Phùng: Con remitto có vẻ thiếu động lưc
+[8/11/2017 11:10:58 AM] Ngọc Hoàng Phùng: Nên anh nghĩ làm con ifcorrect là đẹp đấy
+[8/11/2017 11:11:54 AM] Đỗ Khắc Phúc: bóng bánh, lô đề, vietlot
+[8/11/2017 11:11:58 AM] Đỗ Khắc Phúc: nhiều mảng đấy
+[8/11/2017 11:12:11 AM] Đỗ Khắc Phúc: mảng bóng bánh đang là mảng kiếm ăn tốt đấy
+[8/11/2017 11:12:13 AM] Ngọc Hoàng Phùng: thì tự nhà cái vào tạo kèo mà
+[8/11/2017 11:12:15 AM] Ngọc Hoàng Phùng: ừa
+[8/11/2017 11:12:26 AM] Đỗ Khắc Phúc: cái này thì em vẫn làm dạng API tiếp
+[8/11/2017 11:12:32 AM] Ngọc Hoàng Phùng: cái ifcorrect đấy làm web trước được
+[8/11/2017 11:12:45 AM] Đỗ Khắc Phúc: cái này khá phức tạp, nó dạng thành một mạng xã hội
+[8/11/2017 11:12:51 AM] Ngọc Hoàng Phùng: ừa
+[8/11/2017 11:13:00 AM] Ngọc Hoàng Phùng: Xem có thừa kế được cái nào có sẵn ko
+[8/11/2017 11:13:07 AM] Ngọc Hoàng Phùng: hoặc gọi sang MXH khác như FB
+[8/11/2017 11:13:11 AM] Đỗ Khắc Phúc: chuẩn rồi, phải kế thừa cái có sẵn
+[8/11/2017 11:13:24 AM] Đỗ Khắc Phúc: có dạng khác là làm facebook app
+[8/11/2017 11:13:30 AM] Đỗ Khắc Phúc: thì tận dụng được luôn các cái của facebook
+[8/11/2017 11:14:49 AM] Đỗ Khắc Phúc: giờ quyết tâm kiếm tiền lắm rồi
+[8/11/2017 11:14:57 AM] Đỗ Khắc Phúc: không thể làng nhàng thế này cả đời được
+[8/11/2017 11:14:57 AM] Ngọc Hoàng Phùng: làm đi
+[8/11/2017 11:15:04 AM] Đỗ Khắc Phúc: sống nhạt quá
+[8/11/2017 11:15:05 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:15:09 AM] Ngọc Hoàng Phùng: Anh có đội cờ bạc sẵn sàng dùng cái này
+[8/11/2017 11:16:05 AM] Ngọc Hoàng Phùng: betfect.com là mxh betting được mấy thằng nhà cái nó hợp tác đó
+[8/11/2017 11:17:25 AM] Ngọc Hoàng Phùng: có nền tảng nào quản lý người dùng + tài khoản tốt
+[8/11/2017 11:17:28 AM] Ngọc Hoàng Phùng: Có sẵn ko nhỉ
+[8/11/2017 11:17:37 AM] Ngọc Hoàng Phùng: phục vụ các trò chơi ý
+[8/11/2017 11:17:43 AM] Ngọc Hoàng Phùng: Anh nghĩ có sẵn nhỉ
+[8/11/2017 11:18:00 AM] Đỗ Khắc Phúc: cái mạng xã hội khả năng có sẵn nhiều
+[8/11/2017 11:18:06 AM] Đỗ Khắc Phúc: mình modified từ đấy đi
+[8/11/2017 11:18:22 AM] Ngọc Hoàng Phùng: tài khoản gold, xu các kiểu
+[8/11/2017 11:18:32 AM] Ngọc Hoàng Phùng: có hàm cộng, trừ, tích...
+[8/11/2017 11:18:52 AM] Đỗ Khắc Phúc: ngon
+[8/11/2017 11:18:59 AM] Đỗ Khắc Phúc: cái bet này là cái làm ăn được này
+[8/11/2017 11:19:03 AM] Đỗ Khắc Phúc: nếu được sẽ ko lo tiền
+[8/11/2017 11:19:03 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:19:16 AM] Ngọc Hoàng Phùng: A đang hỏi có sẵn cơ mà
+[8/11/2017 11:19:32 AM] Đỗ Khắc Phúc: có sẵn cả các cái betting này à
+[8/11/2017 11:19:39 AM] Ngọc Hoàng Phùng: ko
+[8/11/2017 11:19:57 AM] Ngọc Hoàng Phùng: Có sẵn quản lý ngừoi dùng, điểm tài khoản, ....
+[8/11/2017 11:20:13 AM] Đỗ Khắc Phúc: để em search xem
+[8/11/2017 11:20:28 AM] Ngọc Hoàng Phùng: chú làm đi anh đầu tư money
+[8/11/2017 11:20:31 AM] Đỗ Khắc Phúc: nhưng thường nó chuyên về một mạng xã hội trong một lĩnh vực hẹp: y tế, giáo dục
+[8/11/2017 11:20:50 AM] Đỗ Khắc Phúc: rồi, thế để em làm thằng ifcorrect
+[8/11/2017 11:20:55 AM] Ngọc Hoàng Phùng: Lấy cái module quản lý người dùng, tài khoản tiền, điểm chắc thôi
+[8/11/2017 11:20:56 AM] Đỗ Khắc Phúc: remitto thôi hẳn nhé
+[8/11/2017 11:20:56 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:21:08 AM] Ngọc Hoàng Phùng: delay
+[8/11/2017 11:21:25 AM] Ngọc Hoàng Phùng: đợi tiền ảo phổ biến VN rồi tính sau
+[8/11/2017 11:21:51 AM] Ngọc Hoàng Phùng: Chú có chơi game nào ko
+[8/11/2017 11:22:01 AM] Ngọc Hoàng Phùng: trước anh chơi top eleven nó có tiền đó
+[8/11/2017 11:22:08 AM] Ngọc Hoàng Phùng: kiểu tiền của câu lạc bộ
+[8/11/2017 11:22:14 AM] Ngọc Hoàng Phùng: Đi mua cầu thủ
+[8/11/2017 11:22:40 AM] Ngọc Hoàng Phùng: túm lại quản lý người dùng + tiền + hàm cộng trừ điểm…. chắc có thể mua được code
+[8/11/2017 11:23:44 AM] Đỗ Khắc Phúc: nó dùng tiền ảo à
+[8/11/2017 11:23:48 AM] Đỗ Khắc Phúc: hay nạp tiền
+[8/11/2017 11:23:57 AM] Ngọc Hoàng Phùng: nạp tiền dùng gold chứ
+[8/11/2017 11:24:05 AM] Đỗ Khắc Phúc: rồi
+[8/11/2017 11:24:06 AM] Ngọc Hoàng Phùng: nạp xu
+[8/11/2017 11:24:12 AM] Đỗ Khắc Phúc: em cũng nạp tiền vào nhiều game rồi
+[8/11/2017 11:24:18 AM] Đỗ Khắc Phúc: lên cấp vip
+[8/11/2017 11:24:20 AM] Ngọc Hoàng Phùng: kiểu cờ up ý
+[8/11/2017 11:24:35 AM] Ngọc Hoàng Phùng: 2 thằng chơi thắng ăn 90
+[8/11/2017 11:24:42 AM] Ngọc Hoàng Phùng: còn 10 thì game được
+[8/11/2017 11:24:59 AM] Ngọc Hoàng Phùng: chú xem mấy nguồn game ý
+[8/11/2017 11:25:04 AM] Ngọc Hoàng Phùng: Anh nghĩ có sẵn cái đó
+[8/11/2017 11:26:52 AM] Ngọc Hoàng Phùng: https://www.betconstruct.com/gaming-management-system/gaming-management-system#/
+[8/11/2017 11:40:48 AM] Ngọc Hoàng Phùng: chú vẫn lưu file mô tả ifcorrect chứ
+[8/11/2017 11:41:45 AM] Đỗ Khắc Phúc: em vẫn lưu
+[8/11/2017 11:41:48 AM] Đỗ Khắc Phúc: nhưng cũng sơ sài thôi
+[8/11/2017 11:41:58 AM] Đỗ Khắc Phúc: để trên github ấy
+[8/11/2017 11:42:13 AM] Ngọc Hoàng Phùng: ừa base trên cái đó
+[8/11/2017 11:42:24 AM] Ngọc Hoàng Phùng: Chú đinh code java hay .net
+[8/11/2017 11:42:39 AM] Đỗ Khắc Phúc: định tìm opensource trước
+[8/11/2017 11:42:44 AM] Ngọc Hoàng Phùng: ừa
+[8/11/2017 11:42:45 AM] Đỗ Khắc Phúc: nếu code thì chắc vẫn dùng Java thôi
+[8/11/2017 11:42:50 AM] Đỗ Khắc Phúc: cho quen tay
+[8/11/2017 11:43:07 AM] Ngọc Hoàng Phùng: Ko thì làm solution
+[8/11/2017 11:43:15 AM] Đỗ Khắc Phúc: outsource à
+[8/11/2017 11:43:22 AM] Ngọc Hoàng Phùng: thuê anh em làm ruby & rails
+[8/11/2017 11:43:27 AM] Ngọc Hoàng Phùng: Cho nhanh
+[8/11/2017 11:43:45 AM] Đỗ Khắc Phúc: thế có vẻ hợp lý hơn đấy
+[8/11/2017 11:43:58 AM] Đỗ Khắc Phúc: chứ em tự code cũng lâu lắm
+[8/11/2017 11:43:59 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:44:12 AM] Ngọc Hoàng Phùng: chú làm tài liệu solution đi
+[8/11/2017 11:44:18 AM] Ngọc Hoàng Phùng: Anh thuê ae khác code cho nhanh
+[8/11/2017 11:44:23 AM] Ngọc Hoàng Phùng: 1 tháng có khi xong
+[8/11/2017 11:44:27 AM] Đỗ Khắc Phúc: ok
+[8/11/2017 11:44:30 AM] Ngọc Hoàng Phùng: chờ chú tới mùa quýt
+[8/11/2017 11:44:40 AM] Đỗ Khắc Phúc: thế để em làm tài liệu solution
+[8/11/2017 11:44:43 AM] Đỗ Khắc Phúc: chuẩn
+[8/11/2017 11:44:48 AM] Đỗ Khắc Phúc: chờ code thì đến mùa quýt thật
+[8/11/2017 11:44:59 AM] Ngọc Hoàng Phùng: đẩy lên gihub nhé
+[8/11/2017 11:45:03 AM] Ngọc Hoàng Phùng: gửi link anh
+[8/11/2017 11:45:04 AM] Đỗ Khắc Phúc: ok
+[8/11/2017 11:45:13 AM] Ngọc Hoàng Phùng: khi nào anh ngó ổn ổn anh chuyển ae code
+[8/11/2017 11:45:24 AM] Ngọc Hoàng Phùng: Cố gắng 1-2 tuần chốt được solution
+[8/11/2017 11:45:37 AM] Đỗ Khắc Phúc: https://github.com/phucdkbk/IfCorrect
+[8/11/2017 11:45:40 AM] Đỗ Khắc Phúc: link cũ chưa có gì
+[8/11/2017 11:45:50 AM] Đỗ Khắc Phúc: để em phân tích chi tiết ra
+[8/11/2017 11:45:54 AM] Đỗ Khắc Phúc: có gì trao đổi thêm
+[8/11/2017 11:47:22 AM] Ngọc Hoàng Phùng: cái app kqsx cứ hoàn thiện phần server nhé
+[8/11/2017 11:47:23 AM] Ngọc Hoàng Phùng: :D
+[8/11/2017 11:47:50 AM] Đỗ Khắc Phúc: cái ý thì quá đơn giản
+[8/11/2017 11:47:51 AM] Đỗ Khắc Phúc: có gì đâu
+[8/11/2017 11:48:12 AM] Đỗ Khắc Phúc: nhưng làm 1 lúc 1 cái thôi
+[8/11/2017 11:48:13 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:48:22 AM] Đỗ Khắc Phúc: giờ em thấy mình sống nhạt quá
+[8/11/2017 11:48:23 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:48:49 AM] Ngọc Hoàng Phùng: ừa cái đó để soi kết quả cho bọn chơi
+[8/11/2017 11:48:50 AM] Ngọc Hoàng Phùng: :))
+[8/11/2017 11:49:00 AM] Ngọc Hoàng Phùng: nhạt gì tại việc ít ko bị cuốn vào thôi
+[8/11/2017 11:49:14 AM] Ngọc Hoàng Phùng: kiếm gái là mặn ngay
+[8/11/2017 11:49:18 AM] Ngọc Hoàng Phùng: mặn chát luôn
+[8/11/2017 11:50:01 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:50:14 AM] Đỗ Khắc Phúc: hôm nào uống bia cái nhỉ
+[8/11/2017 11:52:50 AM] Ngọc Hoàng Phùng: chú cứ xong 1 cái gì đó rồi có cớ uống
+[8/11/2017 11:52:51 AM] Ngọc Hoàng Phùng: :))
+[8/11/2017 11:53:01 AM] Đỗ Khắc Phúc: :D
+[8/11/2017 11:53:01 AM] Ngọc Hoàng Phùng: giới thiệu bạn gái chẳng hạn
+[8/11/2017 11:53:08 AM] Đỗ Khắc Phúc: chuẩn
+[8/11/2017 11:53:13 AM] Đỗ Khắc Phúc: chứ không thì ngồi vẫn chém thế
+[8/11/2017 11:53:25 AM] Đỗ Khắc Phúc: mà thôi
+[8/11/2017 11:53:31 AM] Đỗ Khắc Phúc: coi như uống bia cho mát
+[8/11/2017 11:53:37 AM] Đỗ Khắc Phúc: đâu cần lý do nhiều
+[8/11/2017 11:53:43 AM] Ngọc Hoàng Phùng: hê hê
+[8/11/2017 11:53:52 AM] Ngọc Hoàng Phùng: thích thì chiều nay
+[8/11/2017 11:53:57 AM] Ngọc Hoàng Phùng: rủ Đức pt qua
+[8/11/2017 11:54:14 AM] Ngọc Hoàng Phùng: dũng 78 trúng tuyển thấy bảo lương 100 ủ
+[8/11/2017 11:54:15 AM] Đỗ Khắc Phúc: em thì tạm thời ko được rồi
+[8/11/2017 11:54:18 AM] Đỗ Khắc Phúc: tối có lịch
+[8/11/2017 11:54:22 AM] Đỗ Khắc Phúc: xong cuối tuần đi Hạ Long
+[8/11/2017 11:56:37 AM] Ngọc Hoàng Phùng: Sang tuần đi
+[8/11/2017 11:56:42 AM] Ngọc Hoàng Phùng: Thiếu j lúc
+[8/11/2017 11:56:48 AM] Đỗ Khắc Phúc: ok, thế hẹn trước là sang tuần
+[8/11/2017 11:57:14 AM] Ngọc Hoàng Phùng: Cái cờ bạc kia cố gắng tập trunng làm nhanh
+[8/11/2017 11:57:20 AM] Ngọc Hoàng Phùng: Mùa bóng mới là ngon đó
+[8/11/2017 11:57:23 AM] Ngọc Hoàng Phùng: :D:D
+[8/11/2017 11:57:58 AM] Ngọc Hoàng Phùng: Giờ có momo rồi nạp tiền chắc tiện lắm
+[8/11/2017 4:53:50 PM] Ngọc Hoàng Phùng: https://www.loomio.org/p/vXfuenUg/k-t-qu-tr-n-mu-westham
+[8/11/2017 4:54:41 PM] Đỗ Khắc Phúc: có thằng làm rồi à
+[8/11/2017 4:54:46 PM] Ngọc Hoàng Phùng: ko
+[8/11/2017 4:55:13 PM] Ngọc Hoàng Phùng: nó là opensource hỗ trợ ra quyết định
+[8/11/2017 4:55:16 PM] Ngọc Hoàng Phùng: trước anh nghiên cứu
+[8/11/2017 4:55:25 PM] Ngọc Hoàng Phùng: giờ gửi lại để chú xem thôi
+[8/11/2017 4:55:26 PM] Ngọc Hoàng Phùng: :
+[8/11/2017 4:55:32 PM] Đỗ Khắc Phúc: à
+[8/11/2017 4:55:37 PM] Đỗ Khắc Phúc: cái này là anh build lên à
+[8/11/2017 4:55:41 PM] Ngọc Hoàng Phùng: cơ chế kiểu thế
+[8/11/2017 4:55:42 PM] Ngọc Hoàng Phùng: ko
+[8/11/2017 4:55:44 PM] Ngọc Hoàng Phùng: cloud mà
+[8/11/2017 4:55:48 PM] Ngọc Hoàng Phùng: loomio.org
+[8/11/2017 4:55:56 PM] Ngọc Hoàng Phùng: ruby đó
+[8/11/2017 4:55:57 PM] Ngọc Hoàng Phùng: Open source
+[8/11/2017 4:55:58 PM] Ngọc Hoàng Phùng: :D
+[8/11/2017 4:56:16 PM] Đỗ Khắc Phúc: thằng ruby giờ mạnh quá
+[8/11/2017 4:56:22 PM] Ngọc Hoàng Phùng: nhanh
+[8/11/2017 4:57:38 PM] Ngọc Hoàng Phùng: ừa
+[8/11/2017 4:57:54 PM] Ngọc Hoàng Phùng: cái survey này cũng hay
+[8/11/2017 4:58:10 PM] Đỗ Khắc Phúc: thằng ifcorrect anh định kế hoạch thế nào
+[8/11/2017 4:58:13 PM] Đỗ Khắc Phúc: bao giờ làm
+[8/11/2017 4:58:17 PM] Đỗ Khắc Phúc: triển khai thế nào?
+[8/11/2017 4:58:27 PM] Ngọc Hoàng Phùng: Quan trong nhất là sản phẩm
+[8/11/2017 4:58:30 PM] Ngọc Hoàng Phùng: phải có đã
+[8/11/2017 4:58:37 PM] Ngọc Hoàng Phùng: còn con này triển khai ko khó
+[8/11/2017 4:58:43 PM] Ngọc Hoàng Phùng: có thể kiếm ngay
+[8/11/2017 4:58:49 PM] Ngọc Hoàng Phùng: được tiền
+[8/11/2017 4:59:00 PM] Đỗ Khắc Phúc: thế là em sẽ chi tiết ra các phần à
+[8/11/2017 4:59:04 PM] Ngọc Hoàng Phùng: triển khai kiểu game trước
+[8/11/2017 4:59:07 PM] Đỗ Khắc Phúc: bài toán, nghiệp vụ à
+[8/11/2017 4:59:07 PM] Ngọc Hoàng Phùng: chơi nhỏ
+[8/11/2017 4:59:15 PM] Ngọc Hoàng Phùng: kiểu chứng khoán lên hay xuống
+[8/11/2017 4:59:29 PM] Ngọc Hoàng Phùng: cá nhau
+[8/11/2017 4:59:36 PM] Ngọc Hoàng Phùng: Mình ăn điểm ở giữa
+[8/11/2017 5:00:20 PM] Ngọc Hoàng Phùng: anh bảo
+[8/11/2017 5:00:32 PM] Ngọc Hoàng Phùng: có thể dùng thằng loomio này được đấy
+[8/11/2017 5:00:50 PM] Ngọc Hoàng Phùng: Phân tán các module
+[8/11/2017 5:01:09 PM] Ngọc Hoàng Phùng: cái này hay là ko cần xác thực người chơi
+[8/11/2017 5:01:34 PM] Đỗ Khắc Phúc: thằng loomio à
+[8/11/2017 5:01:46 PM] Đỗ Khắc Phúc: liên quan đến tiền, xu là phải có account mật khẩu rồi
+[8/11/2017 5:01:55 PM] Đỗ Khắc Phúc: thằng này đang là dạng survey khảo sát
+[8/11/2017 5:02:02 PM] Đỗ Khắc Phúc: nên nó anonymous được
+[8/11/2017 5:02:48 PM] Ngọc Hoàng Phùng: xác thực bên mình
+[8/11/2017 5:02:59 PM] Ngọc Hoàng Phùng: xử lý + tính toán dùng lomio
+[8/11/2017 5:09:47 PM] Đỗ Khắc Phúc: ok
+[8/11/2017 5:09:56 PM] Đỗ Khắc Phúc: thế em sẽ chi tiết hơn ra
+[8/11/2017 5:10:04 PM] Đỗ Khắc Phúc: có gì thì cùng trao đổi
